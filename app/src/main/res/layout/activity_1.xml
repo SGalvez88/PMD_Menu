@@ -22,7 +22,7 @@
         android:layout_width="413dp"
         android:layout_height="93dp"
         android:background="@color/black"
-        android:text="Main"
+        android:text="Activity1"
         android:textAlignment="center"
         android:textColor="@color/white"
         android:textSize="60dp"
